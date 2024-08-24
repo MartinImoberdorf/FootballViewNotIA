@@ -11,3 +11,7 @@ Contributions are welcome! If you have ideas to improve FootballViewNotIA, feel 
 
 ## Contact
 For any questions or comments, feel free to contact us at tinchoimo@hotmail.com
+
+## Author
+
+- [@MartinImoberdorf](https://www.github.com/MartinImoberdorf)
