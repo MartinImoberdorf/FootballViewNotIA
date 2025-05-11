@@ -1,6 +1,6 @@
 # FootballViewNotIA 
 
-<img src="https://github.com/MartinImoberdorf/FootballViewNotIA/blob/master/Imgs/Image.png" alt="Imagen NotIA" />
+<img src="https://github.com/MartinImoberdorf/FootballViewNotIA/blob/master/Imgs/Image.png?raw=true" alt="Imagen NotIA" />
 
 FootballViewNotIA is a Unity-based project that offers a unique football match visualization experience. Unlike current trends, this project stands out by avoiding the use of Artificial Intelligence (AI). In a world where AI is prevalent in various fields, FootballViewNotIA aims to highlight simplicity and pure appreciation of the game without algorithmic interventions.
 
